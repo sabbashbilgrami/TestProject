@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author abbas
+ *
+ */
+module string {
+}
